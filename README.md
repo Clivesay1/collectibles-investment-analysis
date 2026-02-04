@@ -76,3 +76,5 @@ jupyter notebook notebooks/collectibles_investment_analysis.ipynb
 
 ---
 *Author: Chris Livesay | [LinkedIn](https://www.linkedin.com/in/christopher-livesay)*
+## Note 8070
+Update.
