@@ -1,0 +1,301 @@
+asset,year,portfolio_value
+S&P 500,2000,9090.0
+S&P 500,2001,8008.29
+S&P 500,2002,6238.46
+S&P 500,2003,8028.9
+S&P 500,2004,8904.04
+S&P 500,2005,9340.34
+S&P 500,2006,10816.12
+S&P 500,2007,11411.0
+S&P 500,2008,7188.93
+S&P 500,2009,9094.0
+S&P 500,2010,10467.19
+S&P 500,2011,10687.0
+S&P 500,2012,12396.93
+S&P 500,2013,16413.53
+S&P 500,2014,18662.18
+S&P 500,2015,18923.45
+S&P 500,2016,21194.27
+S&P 500,2017,25814.62
+S&P 500,2018,24678.77
+S&P 500,2019,32452.59
+S&P 500,2020,38423.86
+S&P 500,2021,49451.51
+S&P 500,2022,40500.79
+S&P 500,2023,51152.5
+S&P 500,2024,63940.62
+US Bonds (10yr Treasury),2000,11670.0
+US Bonds (10yr Treasury),2001,12323.52
+US Bonds (10yr Treasury),2002,14184.37
+US Bonds (10yr Treasury),2003,14241.11
+US Bonds (10yr Treasury),2004,14881.96
+US Bonds (10yr Treasury),2005,15313.54
+US Bonds (10yr Treasury),2006,15558.55
+US Bonds (10yr Treasury),2007,17145.52
+US Bonds (10yr Treasury),2008,21586.22
+US Bonds (10yr Treasury),2009,19190.15
+US Bonds (10yr Treasury),2010,20821.31
+US Bonds (10yr Treasury),2011,24152.72
+US Bonds (10yr Treasury),2012,24780.69
+US Bonds (10yr Treasury),2013,22525.65
+US Bonds (10yr Treasury),2014,24958.41
+US Bonds (10yr Treasury),2015,25158.08
+US Bonds (10yr Treasury),2016,25409.66
+US Bonds (10yr Treasury),2017,25994.09
+US Bonds (10yr Treasury),2018,25968.09
+US Bonds (10yr Treasury),2019,28227.32
+US Bonds (10yr Treasury),2020,26985.31
+US Bonds (10yr Treasury),2021,26364.65
+US Bonds (10yr Treasury),2022,21671.74
+US Bonds (10yr Treasury),2023,22560.28
+US Bonds (10yr Treasury),2024,23011.49
+Real Estate (Case-Shiller),2000,10740.0
+Real Estate (Case-Shiller),2001,11481.06
+Real Estate (Case-Shiller),2002,12284.73
+Real Estate (Case-Shiller),2003,13267.51
+Real Estate (Case-Shiller),2004,14753.47
+Real Estate (Case-Shiller),2005,16730.44
+Real Estate (Case-Shiller),2006,17968.49
+Real Estate (Case-Shiller),2007,17645.06
+Real Estate (Case-Shiller),2008,15527.65
+Real Estate (Case-Shiller),2009,14968.66
+Real Estate (Case-Shiller),2010,14354.94
+Real Estate (Case-Shiller),2011,13823.81
+Real Estate (Case-Shiller),2012,14777.65
+Real Estate (Case-Shiller),2013,16491.86
+Real Estate (Case-Shiller),2014,17266.98
+Real Estate (Case-Shiller),2015,18199.39
+Real Estate (Case-Shiller),2016,19236.76
+Real Estate (Case-Shiller),2017,20448.68
+Real Estate (Case-Shiller),2018,21430.21
+Real Estate (Case-Shiller),2019,22544.58
+Real Estate (Case-Shiller),2020,26782.96
+Real Estate (Case-Shiller),2021,30987.89
+Real Estate (Case-Shiller),2022,29407.51
+Real Estate (Case-Shiller),2023,30642.62
+Real Estate (Case-Shiller),2024,32327.97
+Gold,2000,9460.0
+Gold,2001,9696.5
+Gold,2002,12091.54
+Gold,2003,14461.48
+Gold,2004,15213.47
+Gold,2005,16537.05
+Gold,2006,20307.49
+Gold,2007,26582.51
+Gold,2008,28124.29
+Gold,2009,34846.0
+Gold,2010,45230.11
+Gold,2011,49843.58
+Gold,2012,53332.63
+Gold,2013,38239.49
+Gold,2014,37665.9
+Gold,2015,33748.65
+Gold,2016,36651.03
+Gold,2017,41452.32
+Gold,2018,40664.72
+Gold,2019,48106.37
+Gold,2020,60181.06
+Gold,2021,58014.55
+Gold,2022,57840.5
+Gold,2023,65417.61
+Gold,2024,83211.2
+Fine Art (Artprice Index),2000,11200.0
+Fine Art (Artprice Index),2001,12152.0
+Fine Art (Artprice Index),2002,12783.9
+Fine Art (Artprice Index),2003,15136.14
+Fine Art (Artprice Index),2004,18481.23
+Fine Art (Artprice Index),2005,21308.86
+Fine Art (Artprice Index),2006,24334.72
+Fine Art (Artprice Index),2007,26719.52
+Fine Art (Artprice Index),2008,18650.22
+Fine Art (Artprice Index),2009,21559.66
+Fine Art (Artprice Index),2010,25634.43
+Fine Art (Artprice Index),2011,28813.1
+Fine Art (Artprice Index),2012,31060.53
+Fine Art (Artprice Index),2013,35471.12
+Fine Art (Artprice Index),2014,37776.74
+Fine Art (Artprice Index),2015,38985.6
+Fine Art (Artprice Index),2016,42260.39
+Fine Art (Artprice Index),2017,51261.85
+Fine Art (Artprice Index),2018,54440.09
+Fine Art (Artprice Index),2019,58686.41
+Fine Art (Artprice Index),2020,75940.22
+Fine Art (Artprice Index),2021,84445.52
+Fine Art (Artprice Index),2022,77352.1
+Fine Art (Artprice Index),2023,81297.06
+Fine Art (Artprice Index),2024,88044.71
+Fine Wine (Liv-ex 100),2000,10820.0
+Fine Wine (Liv-ex 100),2001,12161.68
+Fine Wine (Liv-ex 100),2002,12988.67
+Fine Wine (Liv-ex 100),2003,14833.07
+Fine Wine (Liv-ex 100),2004,17592.02
+Fine Wine (Liv-ex 100),2005,21532.63
+Fine Wine (Liv-ex 100),2006,24719.46
+Fine Wine (Liv-ex 100),2007,29218.4
+Fine Wine (Liv-ex 100),2008,24718.76
+Fine Wine (Liv-ex 100),2009,30354.64
+Fine Wine (Liv-ex 100),2010,38975.36
+Fine Wine (Liv-ex 100),2011,43886.26
+Fine Wine (Liv-ex 100),2012,46694.98
+Fine Wine (Liv-ex 100),2013,50523.97
+Fine Wine (Liv-ex 100),2014,52949.12
+Fine Wine (Liv-ex 100),2015,51678.34
+Fine Wine (Liv-ex 100),2016,58189.81
+Fine Wine (Liv-ex 100),2017,72620.88
+Fine Wine (Liv-ex 100),2018,78721.03
+Fine Wine (Liv-ex 100),2019,88639.88
+Fine Wine (Liv-ex 100),2020,108495.22
+Fine Wine (Liv-ex 100),2021,128675.33
+Fine Wine (Liv-ex 100),2022,112719.59
+Fine Wine (Liv-ex 100),2023,115875.74
+Fine Wine (Liv-ex 100),2024,123291.78
+Luxury Watches (Knight Frank),2000,10420.0
+Luxury Watches (Knight Frank),2001,11024.36
+Luxury Watches (Knight Frank),2002,11729.92
+Luxury Watches (Knight Frank),2003,12691.77
+Luxury Watches (Knight Frank),2004,14011.72
+Luxury Watches (Knight Frank),2005,15777.19
+Luxury Watches (Knight Frank),2006,17102.48
+Luxury Watches (Knight Frank),2007,19531.03
+Luxury Watches (Knight Frank),2008,15898.26
+Luxury Watches (Knight Frank),2009,17869.64
+Luxury Watches (Knight Frank),2010,21193.39
+Luxury Watches (Knight Frank),2011,22973.64
+Luxury Watches (Knight Frank),2012,24398.01
+Luxury Watches (Knight Frank),2013,27520.95
+Luxury Watches (Knight Frank),2014,29832.71
+Luxury Watches (Knight Frank),2015,31205.02
+Luxury Watches (Knight Frank),2016,35074.44
+Luxury Watches (Knight Frank),2017,41598.28
+Luxury Watches (Knight Frank),2018,44260.57
+Luxury Watches (Knight Frank),2019,50545.57
+Luxury Watches (Knight Frank),2020,62979.78
+Luxury Watches (Knight Frank),2021,74568.06
+Luxury Watches (Knight Frank),2022,65023.35
+Luxury Watches (Knight Frank),2023,67754.33
+Luxury Watches (Knight Frank),2024,73581.21
+Sports Cards (PWCC Index),2000,10640.0
+Sports Cards (PWCC Index),2001,11512.48
+Sports Cards (PWCC Index),2002,12709.78
+Sports Cards (PWCC Index),2003,14565.41
+Sports Cards (PWCC Index),2004,17216.31
+Sports Cards (PWCC Index),2005,19351.13
+Sports Cards (PWCC Index),2006,21015.33
+Sports Cards (PWCC Index),2007,24125.6
+Sports Cards (PWCC Index),2008,18721.46
+Sports Cards (PWCC Index),2009,22203.66
+Sports Cards (PWCC Index),2010,27710.16
+Sports Cards (PWCC Index),2011,31146.22
+Sports Cards (PWCC Index),2012,33824.8
+Sports Cards (PWCC Index),2013,40048.56
+Sports Cards (PWCC Index),2014,45094.68
+Sports Cards (PWCC Index),2015,47980.74
+Sports Cards (PWCC Index),2016,55081.89
+Sports Cards (PWCC Index),2017,67530.4
+Sports Cards (PWCC Index),2018,73202.95
+Sports Cards (PWCC Index),2019,104533.81
+Sports Cards (PWCC Index),2020,207395.08
+Sports Cards (PWCC Index),2021,266710.07
+Sports Cards (PWCC Index),2022,200565.97
+Sports Cards (PWCC Index),2023,217413.52
+Sports Cards (PWCC Index),2024,244807.62
+Pokemon Cards (PSA/TCGPlayer),2000,10840.0
+Pokemon Cards (PSA/TCGPlayer),2001,11512.08
+Pokemon Cards (PSA/TCGPlayer),2002,12064.66
+Pokemon Cards (PSA/TCGPlayer),2003,13560.68
+Pokemon Cards (PSA/TCGPlayer),2004,16082.96
+Pokemon Cards (PSA/TCGPlayer),2005,17433.93
+Pokemon Cards (PSA/TCGPlayer),2006,18514.84
+Pokemon Cards (PSA/TCGPlayer),2007,21255.03
+Pokemon Cards (PSA/TCGPlayer),2008,17344.11
+Pokemon Cards (PSA/TCGPlayer),2009,19529.46
+Pokemon Cards (PSA/TCGPlayer),2010,23122.89
+Pokemon Cards (PSA/TCGPlayer),2011,25111.45
+Pokemon Cards (PSA/TCGPlayer),2012,26718.59
+Pokemon Cards (PSA/TCGPlayer),2013,30672.94
+Pokemon Cards (PSA/TCGPlayer),2014,33249.46
+Pokemon Cards (PSA/TCGPlayer),2015,34778.94
+Pokemon Cards (PSA/TCGPlayer),2016,39091.53
+Pokemon Cards (PSA/TCGPlayer),2017,50271.7
+Pokemon Cards (PSA/TCGPlayer),2018,56505.4
+Pokemon Cards (PSA/TCGPlayer),2019,95155.09
+Pokemon Cards (PSA/TCGPlayer),2020,213908.63
+Pokemon Cards (PSA/TCGPlayer),2021,122783.56
+Pokemon Cards (PSA/TCGPlayer),2022,87913.03
+Pokemon Cards (PSA/TCGPlayer),2023,98990.07
+Pokemon Cards (PSA/TCGPlayer),2024,117204.24
+Sneakers (StockX Index),2000,10000.0
+Sneakers (StockX Index),2001,10000.0
+Sneakers (StockX Index),2002,10000.0
+Sneakers (StockX Index),2003,10000.0
+Sneakers (StockX Index),2004,10000.0
+Sneakers (StockX Index),2005,10000.0
+Sneakers (StockX Index),2006,10000.0
+Sneakers (StockX Index),2007,10000.0
+Sneakers (StockX Index),2008,10000.0
+Sneakers (StockX Index),2009,10000.0
+Sneakers (StockX Index),2010,10000.0
+Sneakers (StockX Index),2011,10000.0
+Sneakers (StockX Index),2012,10000.0
+Sneakers (StockX Index),2013,10000.0
+Sneakers (StockX Index),2014,10000.0
+Sneakers (StockX Index),2015,10000.0
+Sneakers (StockX Index),2016,11840.0
+Sneakers (StockX Index),2017,14752.64
+Sneakers (StockX Index),2018,16936.03
+Sneakers (StockX Index),2019,22423.3
+Sneakers (StockX Index),2020,28836.37
+Sneakers (StockX Index),2021,31258.62
+Sneakers (StockX Index),2022,27382.56
+Sneakers (StockX Index),2023,28696.92
+Sneakers (StockX Index),2024,31164.85
+Comic Books (Heritage),2000,10840.0
+Comic Books (Heritage),2001,11512.08
+Comic Books (Heritage),2002,12709.34
+Comic Books (Heritage),2003,14590.32
+Comic Books (Heritage),2004,17304.12
+Comic Books (Heritage),2005,19449.83
+Comic Books (Heritage),2006,21122.51
+Comic Books (Heritage),2007,24121.91
+Comic Books (Heritage),2008,21130.79
+Comic Books (Heritage),2009,25061.12
+Comic Books (Heritage),2010,28770.17
+Comic Books (Heritage),2011,31186.86
+Comic Books (Heritage),2012,35116.4
+Comic Books (Heritage),2013,41577.82
+Comic Books (Heritage),2014,45153.52
+Comic Books (Heritage),2015,48043.34
+Comic Books (Heritage),2016,54192.89
+Comic Books (Heritage),2017,64272.77
+Comic Books (Heritage),2018,69671.68
+Comic Books (Heritage),2019,89458.43
+Comic Books (Heritage),2020,106097.7
+Comic Books (Heritage),2021,115009.91
+Comic Books (Heritage),2022,105119.06
+Comic Books (Heritage),2023,109534.06
+Comic Books (Heritage),2024,116982.38
+MTG Cards (TCGPlayer/MTGGoldfish),2000,11240.0
+MTG Cards (TCGPlayer/MTGGoldfish),2001,12206.64
+MTG Cards (TCGPlayer/MTGGoldfish),2002,12987.86
+MTG Cards (TCGPlayer/MTGGoldfish),2003,15403.61
+MTG Cards (TCGPlayer/MTGGoldfish),2004,19223.7
+MTG Cards (TCGPlayer/MTGGoldfish),2005,22030.36
+MTG Cards (TCGPlayer/MTGGoldfish),2006,24762.13
+MTG Cards (TCGPlayer/MTGGoldfish),2007,29367.88
+MTG Cards (TCGPlayer/MTGGoldfish),2008,21027.4
+MTG Cards (TCGPlayer/MTGGoldfish),2009,25779.6
+MTG Cards (TCGPlayer/MTGGoldfish),2010,33101.0
+MTG Cards (TCGPlayer/MTGGoldfish),2011,37999.95
+MTG Cards (TCGPlayer/MTGGoldfish),2012,41267.95
+MTG Cards (TCGPlayer/MTGGoldfish),2013,51502.4
+MTG Cards (TCGPlayer/MTGGoldfish),2014,57888.7
+MTG Cards (TCGPlayer/MTGGoldfish),2015,61825.13
+MTG Cards (TCGPlayer/MTGGoldfish),2016,73200.95
+MTG Cards (TCGPlayer/MTGGoldfish),2017,94136.43
+MTG Cards (TCGPlayer/MTGGoldfish),2018,105809.34
+MTG Cards (TCGPlayer/MTGGoldfish),2019,146651.75
+MTG Cards (TCGPlayer/MTGGoldfish),2020,217631.2
+MTG Cards (TCGPlayer/MTGGoldfish),2021,245052.73
+MTG Cards (TCGPlayer/MTGGoldfish),2022,199963.03
+MTG Cards (TCGPlayer/MTGGoldfish),2023,217159.85
+MTG Cards (TCGPlayer/MTGGoldfish),2024,249299.5
