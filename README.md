@@ -79,3 +79,5 @@ jupyter notebook notebooks/collectibles_investment_analysis.ipynb
 ## Note 8070
 Update.
 <!-- revision 9079 -->
+## Note 7703
+Update.
