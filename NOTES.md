@@ -14,3 +14,6 @@ Analyzed PSA population report data for Base Set Charizard (PSA 10). Population 
 
 ## Market Correlation — April 28, 2026
 Testing correlation between collectibles returns and S&P 500. High-end art and watches show low correlation (r=0.18), making them genuine diversifiers. Sports cards show moderate correlation (r=0.42) — more tied to consumer sentiment.
+
+## Risk Framework Refinement — April 30, 2026
+Adding 'cultural permanence score' to the collectibles framework. Factors: IP longevity, nostalgia demographic size, scarcity mechanism, and institutional recognition. Cards/items scoring high on cultural permanence show lower volatility and stronger floor prices.
