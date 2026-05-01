@@ -17,3 +17,6 @@ Testing correlation between collectibles returns and S&P 500. High-end art and w
 
 ## Risk Framework Refinement — April 30, 2026
 Adding 'cultural permanence score' to the collectibles framework. Factors: IP longevity, nostalgia demographic size, scarcity mechanism, and institutional recognition. Cards/items scoring high on cultural permanence show lower volatility and stronger floor prices.
+
+## Liquidity Premium Analysis — May 01, 2026
+Modeling the liquidity discount for illiquid collectibles. Wine and art require 6-18 months to liquidate at fair value — applying a 15-20% liquidity discount to quoted returns. Sports cards and Pokémon are more liquid (eBay/TCGPlayer markets) — 7-14 day liquidation at 90-95% of fair value. Liquidity-adjusted returns change the ranking significantly.
