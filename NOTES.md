@@ -20,3 +20,7 @@ Adding 'cultural permanence score' to the collectibles framework. Factors: IP lo
 
 ## Liquidity Premium Analysis — May 01, 2026
 Modeling the liquidity discount for illiquid collectibles. Wine and art require 6-18 months to liquidate at fair value — applying a 15-20% liquidity discount to quoted returns. Sports cards and Pokémon are more liquid (eBay/TCGPlayer markets) — 7-14 day liquidation at 90-95% of fair value. Liquidity-adjusted returns change the ranking significantly.
+
+## May 2026 Update
+
+Investigated sports card market cycles. 1990s overproduction era (Donruss, Score, Topps) remains largely worthless. Pre-1980 vintage cards (PSA 8+) show consistent 8–12% CAGR with low volatility.
