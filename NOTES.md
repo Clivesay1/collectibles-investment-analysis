@@ -28,3 +28,7 @@ Investigated sports card market cycles. 1990s overproduction era (Donruss, Score
 
 ## Watch Market Deep Dive — May 07, 2026
 Analyzing Rolex Submariner and Patek Philippe Nautilus price performance 2015-2025. Rolex sports models show 18% CAGR with relatively low volatility (σ=0.12). The 2021-2022 bubble inflated prices 3x, with a 40% correction in 2023. Post-correction prices still represent 11% CAGR from 2015 baseline.
+
+## May 09, 2026
+
+Completed wine investment analysis. Wine shows strong CAGR (10.2%) but suffers from high illiquidity premium. Storage (~$15/case/year) and insurance costs compress net returns by 2–3% annually.
