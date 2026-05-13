@@ -32,3 +32,7 @@ Analyzing Rolex Submariner and Patek Philippe Nautilus price performance 2015-20
 ## May 09, 2026
 
 Completed wine investment analysis. Wine shows strong CAGR (10.2%) but suffers from high illiquidity premium. Storage (~$15/case/year) and insurance costs compress net returns by 2–3% annually.
+
+## Sharpe Ratio Methodology — May 13, 2026
+
+Using 10-year Treasury yield as risk-free rate (4.2% current). S&P 500 Sharpe: 0.87. Gold: 0.43. Vintage sports cards (PSA 8+): 0.61. Pokémon sealed product: 0.74 (high but volatile). Watches (Rolex sports models): 0.89 — highest in the collectibles category when storage/insurance costs are excluded.
