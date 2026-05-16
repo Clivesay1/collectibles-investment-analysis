@@ -36,3 +36,6 @@ Completed wine investment analysis. Wine shows strong CAGR (10.2%) but suffers f
 ## Sharpe Ratio Methodology — May 13, 2026
 
 Using 10-year Treasury yield as risk-free rate (4.2% current). S&P 500 Sharpe: 0.87. Gold: 0.43. Vintage sports cards (PSA 8+): 0.61. Pokémon sealed product: 0.74 (high but volatile). Watches (Rolex sports models): 0.89 — highest in the collectibles category when storage/insurance costs are excluded.
+
+## Sneaker Market Cycle Analysis — May 16, 2026
+StockX data shows Nike Jordan 1 Retros averaged 2.3x retail at peak (2021). Post-2022 correction brought premiums to 1.4x retail. Hype-driven items show high volatility (σ=0.41) and poor long-term CAGR (4.2%). Sneakers classified as speculative/high-risk in the framework.
