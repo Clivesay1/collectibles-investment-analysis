@@ -42,3 +42,7 @@ StockX data shows Nike Jordan 1 Retros averaged 2.3x retail at peak (2021). Post
 
 ## Sneaker Market Liquidity Analysis — May 19, 2026
 Updated sneaker resale data from StockX and GOAT published reports. Nike Air Jordan 1 Retro High OG: average resale premium 85% over retail. Yeezy line: premium compressed to 20-30% post-Adidas split. Liquidity is strong for shoes under $500 resale; above $1,000 average time-to-sell increases from 3 days to 18 days. Key risk: Nike/Adidas can flood supply with restocks, eliminating premium overnight.
+
+## May 25, 2026
+
+Benchmarked all asset classes against S&P 500 (10.5% CAGR, 20-year). Pokémon sealed product (2017–2022 era) shows highest 5-year CAGR at 28.3%, but with extreme volatility (σ = 0.41).
