@@ -46,3 +46,9 @@ Updated sneaker resale data from StockX and GOAT published reports. Nike Air Jor
 ## May 25, 2026
 
 Benchmarked all asset classes against S&P 500 (10.5% CAGR, 20-year). Pokémon sealed product (2017–2022 era) shows highest 5-year CAGR at 28.3%, but with extreme volatility (σ = 0.41).
+## Investor Profile Framework — May 28, 2026
+Building a recommendation framework by investor profile:
+- **Conservative (capital preservation)**: 5% collectibles max, focus on blue-chip art and vintage watches. Low volatility, genuine diversification.
+- **Moderate (balanced growth)**: 10–15% collectibles, mix of watches, Pokémon Tier 1, pre-war sports cards. Target 8–10% net CAGR.
+- **Aggressive (growth)**: 15–25% collectibles, include modern sports cards and MTG. Accept higher volatility for potential 15%+ CAGR.
+- **Enthusiast (passion + profit)**: Domain expertise is the edge. Focus on one category, buy condition, hold long-term. Knowledge premium offsets market inefficiency.
