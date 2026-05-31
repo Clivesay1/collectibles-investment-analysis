@@ -52,3 +52,6 @@ Building a recommendation framework by investor profile:
 - **Moderate (balanced growth)**: 10–15% collectibles, mix of watches, Pokémon Tier 1, pre-war sports cards. Target 8–10% net CAGR.
 - **Aggressive (growth)**: 15–25% collectibles, include modern sports cards and MTG. Accept higher volatility for potential 15%+ CAGR.
 - **Enthusiast (passion + profit)**: Domain expertise is the edge. Focus on one category, buy condition, hold long-term. Knowledge premium offsets market inefficiency.
+
+## Pokémon Sealed vs Singles Return Comparison — May 31, 2026
+Sealed Pokémon product (booster boxes, ETBs) has outperformed singles in long-term appreciation. Base Set Shadowless Booster Box: $400 in 2010 → $28,000 in 2024 (CAGR: 33%). Charizard Holo 1st Edition PSA 10: $500 in 2010 → $350,000 in 2024 (CAGR: 52%). Singles show higher ceiling but require grading expertise. Sealed product is more accessible to non-expert investors. Key risk for both: WotC reprint decisions can create new supply (though vintage sealed is unaffected).
