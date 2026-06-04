@@ -55,3 +55,9 @@ Building a recommendation framework by investor profile:
 
 ## Pokémon Sealed vs Singles Return Comparison — May 31, 2026
 Sealed Pokémon product (booster boxes, ETBs) has outperformed singles in long-term appreciation. Base Set Shadowless Booster Box: $400 in 2010 → $28,000 in 2024 (CAGR: 33%). Charizard Holo 1st Edition PSA 10: $500 in 2010 → $350,000 in 2024 (CAGR: 52%). Singles show higher ceiling but require grading expertise. Sealed product is more accessible to non-expert investors. Key risk for both: WotC reprint decisions can create new supply (though vintage sealed is unaffected).
+
+## 2026-06-04 — update README with investor profile framework
+
+Added three investor profiles (collector, speculator, diversifier) with tailored allocation recommendations.
+
+*Updated: 2026-06-04 15:43*
