@@ -64,3 +64,12 @@ Added three investor profiles (collector, speculator, diversifier) with tailored
 
 ## Portfolio Allocation — Correlation Matrix Update — June 10, 2026
 Added correlation analysis between collectible categories and traditional assets. Key finding: collectibles show low correlation with S&P 500 (r = 0.12 average) — genuine diversification benefit. Within collectibles, sports cards and Pokémon are moderately correlated (r = 0.43) — driven by shared speculator base. Watches and art are least correlated with other collectibles (r = 0.08). Optimal diversification: include 2-3 uncorrelated collectible categories.
+
+---
+
+## Portfolio Allocation Modeling Notes
+
+- Efficient frontier analysis: 5-15% collectibles allocation improves Sharpe Ratio
+- Optimal mix for risk-tolerant investor: 70% equities, 15% real estate, 10% collectibles, 5% gold
+- Conservative allocation: max 5% collectibles, focus on Pokémon/watches (higher liquidity)
+- Rebalancing frequency: annual for collectibles (transaction costs too high for quarterly)
