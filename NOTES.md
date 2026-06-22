@@ -73,3 +73,7 @@ Added correlation analysis between collectible categories and traditional assets
 - Optimal mix for risk-tolerant investor: 70% equities, 15% real estate, 10% collectibles, 5% gold
 - Conservative allocation: max 5% collectibles, focus on Pokémon/watches (higher liquidity)
 - Rebalancing frequency: annual for collectibles (transaction costs too high for quarterly)
+
+---
+## Authentication Cost Analysis — June 22, 2026
+Grading and authentication costs are often overlooked in collectibles ROI calculations. PSA grading: $20-$150/card depending on tier. CGC comics: $30-$200/book. For a $500 card, grading costs represent 4-30% of purchase price — significant drag on ROI. Updated the ROI model to include authentication costs as a required input, with breakeven analysis showing minimum card value for grading to be economically justified.
