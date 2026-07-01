@@ -80,3 +80,7 @@ Grading and authentication costs are often overlooked in collectibles ROI calcul
 
 ## Inflation Hedge Analysis — June 25, 2026
 Testing collectibles as inflation hedges against CPI data. Gold: 0.82 correlation with CPI over 20 years — strong hedge. Real estate: 0.71 correlation. Fine art: 0.45 correlation. Sports cards: 0.31 correlation — more driven by pop culture cycles than macro inflation. Pokémon: near-zero correlation with CPI. Updating the inflation hedge scoring in the investor profile framework.
+
+## 2026-07-01 15:41
+
+Investigated sports card market cycles. 1990s overproduction era (Donruss, Score, Topps) remains largely worthless. Pre-1980 vintage cards (PSA 8+) show consistent 8–12% CAGR with low volatility.
