@@ -84,3 +84,7 @@ Testing collectibles as inflation hedges against CPI data. Gold: 0.82 correlatio
 ## 2026-07-01 15:41
 
 Investigated sports card market cycles. 1990s overproduction era (Donruss, Score, Topps) remains largely worthless. Pre-1980 vintage cards (PSA 8+) show consistent 8–12% CAGR with low volatility.
+
+## Portfolio Rebalancing Strategy — July 04, 2026
+
+Developed rebalancing guidelines for collectibles within a broader portfolio. Trigger-based rebalancing (preferred over calendar-based for illiquid assets): Rebalance when collectibles allocation drifts > 5% from target. Avoid rebalancing during market dislocations (post-crash) — forced selling at distressed prices. Tax considerations: collectibles taxed at 28% long-term capital gains rate (vs 20% for equities) — hold periods should account for this differential. Optimal rebalancing vehicle: sell collectibles that have appreciated most, reinvest in undervalued categories within the same asset class. Adding rebalancing_cost_model to the portfolio optimization section.
