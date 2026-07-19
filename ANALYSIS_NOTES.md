@@ -16,3 +16,6 @@ Ongoing notes and observations from the analysis.
 ## Sports Cards vs. S&P 500
 
 PWCC Top 500 Index shows 24.2% CAGR from 2008-2023 vs S&P 500's 14.7%. However, this index is survivorship-biased — it tracks only the top 500 cards by value, not the average card. The median sports card likely underperforms the S&P. Important distinction for the analysis.
+
+## July 19, 2026
+**Inflation hedge analysis:** Gold and real estate historically outperform during high-inflation periods (CPI > 4%). Collectibles show mixed results — art and wine correlate positively with inflation, sports cards do not. Building inflation-sensitivity scores by asset class using 1970-2024 CPI data.
