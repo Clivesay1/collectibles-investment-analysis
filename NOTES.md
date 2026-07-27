@@ -88,3 +88,8 @@ Investigated sports card market cycles. 1990s overproduction era (Donruss, Score
 ## Portfolio Rebalancing Strategy — July 04, 2026
 
 Developed rebalancing guidelines for collectibles within a broader portfolio. Trigger-based rebalancing (preferred over calendar-based for illiquid assets): Rebalance when collectibles allocation drifts > 5% from target. Avoid rebalancing during market dislocations (post-crash) — forced selling at distressed prices. Tax considerations: collectibles taxed at 28% long-term capital gains rate (vs 20% for equities) — hold periods should account for this differential. Optimal rebalancing vehicle: sell collectibles that have appreciated most, reinvest in undervalued categories within the same asset class. Adding rebalancing_cost_model to the portfolio optimization section.
+
+
+---
+## Storage and Insurance Costs — July 26, 2026
+Often overlooked in collectibles ROI analysis: storage costs for wine (climate-controlled: 1-2%/year), art (museum-quality storage: 0.5-1%/year), and graded cards (minimal: 0.1%/year). Insurance adds 0.5-1.5% annually depending on asset value and type. Total carrying cost of 1.5-3.5%/year must be subtracted from gross returns for accurate comparison.
