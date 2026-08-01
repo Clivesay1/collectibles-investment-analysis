@@ -93,3 +93,7 @@ Developed rebalancing guidelines for collectibles within a broader portfolio. Tr
 ---
 ## Storage and Insurance Costs — July 26, 2026
 Often overlooked in collectibles ROI analysis: storage costs for wine (climate-controlled: 1-2%/year), art (museum-quality storage: 0.5-1%/year), and graded cards (minimal: 0.1%/year). Insurance adds 0.5-1.5% annually depending on asset value and type. Total carrying cost of 1.5-3.5%/year must be subtracted from gross returns for accurate comparison.
+
+---
+## PSA Grading Cost Analysis — July 31, 2026
+Grading costs ($20–$150/card depending on service tier) must be factored into collectibles ROI calculations. Only cards with estimated PSA 10 value above $200 are economically viable to grade at standard service levels. Express grading ($150/card) only makes sense for cards likely to grade PSA 10 at $500+. Adding grading_roi_threshold as a filter in the sports card subcategory analysis.
