@@ -51,7 +51,9 @@ collectibles-investment-analysis/
 ```bash
 git clone https://github.com/Clivesay1/collectibles-investment-analysis
 cd collectibles-investment-analysis
-pip install pandas matplotlib numpy
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
 jupyter notebook notebooks/collectibles_investment_analysis.ipynb
 ```
 
@@ -69,15 +71,13 @@ jupyter notebook notebooks/collectibles_investment_analysis.ipynb
 | Sneakers | StockX Annual Report + Cowen Research |
 
 ## Important Disclaimers
-- Returns represent published index/benchmark performance, not individual item performance
-- Transaction costs (10–25% auction fees, grading, storage) are not included and significantly impact real returns
-- Past performance does not guarantee future results
-- Individual card/item selection skill is the primary driver of returns above the index
+- Returns represent published index/benchmark performance, not individual item performance.
+- The published model summarizes gross benchmark returns. Auction fees, grading, storage, insurance, taxes, and liquidity constraints can materially reduce an investor's realized return.
+- Past performance does not guarantee future results.
+- Individual card/item selection skill is the primary driver of returns above the index.
+
+## Reproducibility
+Run the consolidated notebook from the repository root after installing `requirements.txt`. The project uses committed 2000–2024 data snapshots documented in [`data/README.md`](data/README.md). The included tables support comparison and educational analysis; they are not personalized investment advice.
 
 ---
 *Author: Chris Livesay | [LinkedIn](https://www.linkedin.com/in/christopher-livesay)*
-## Note 8070
-Update.
-<!-- revision 9079 -->
-## Note 7703
-Update.
